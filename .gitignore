@@ -2,3 +2,6 @@
 /profile/
 .openself/pushed
 .DS_Store
+
+# The decrypted vault never goes in this repository; only cv.age does.
+/cv/
