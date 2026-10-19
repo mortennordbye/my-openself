@@ -1,0 +1,2 @@
+# how make push uploads: through a pull request that merges itself once the guard passes
+push = pull-request
